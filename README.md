@@ -1,17 +1,21 @@
 # TT Cyber Academy
 
-Cybersecurity learning platform for beginner students.
+Cybersecurity training platform for beginners.
 
-## Modules
+## Topics
 - Linux
-- Networking
 - Web Security
+- Networking
+- Privilege Escalation
 
 ## Platforms
 - TryHackMe
 - HackTheBox
+- PortSwigger
 
-## Project Tools
+## Project Management
 - Jira
 - GitHub
-- Google Classroom
+
+## Author
+Your Name
