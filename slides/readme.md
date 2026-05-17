@@ -1,1 +1,2 @@
 Slides folder
+Dərs slaydları:
