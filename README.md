@@ -18,4 +18,4 @@ Cybersecurity training platform for beginners.
 - GitHub
 
 ## Author
-Your Name
+Togrul Teymurov
